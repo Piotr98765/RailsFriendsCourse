@@ -1,6 +1,3 @@
-# Friends App
+Friends App
 
-Hello...
-
-
-Test git....
+~Testing Ruby on Rails and Git ~
